@@ -1,0 +1,27 @@
+{
+  "name": "forum",
+  "version": "0.0.2",
+  "description": "A basic forum web-app",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clccmh/Forum.git"
+  },
+  "keywords": [
+    "Forum"
+  ],
+  "author": "Carter Hay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clccmh/Forum/issues"
+  },
+  "homepage": "https://github.com/clccmh/Forum#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-util": "^3.0.7"
+  }
+}
